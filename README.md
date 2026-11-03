@@ -1,6 +1,6 @@
-# Waroeng Ngemil POS - Sistem Kasir & Manajemen Penjualan Berbasis Flutter
+# Waroeng Ngemil POS
 
-Aplikasi Point of Sale (POS) dan Sistem Kasir Modern untuk toko kuliner dan minuman "Waroeng Ngemil" berbasis Flutter dan Dart dengan dukungan penyimpanan data lokal (SQLite & SharedPreferences), antarmuka responsif estetik (Google Fonts Poppins), kalkulasi pembayaran otomatis, serta fitur cetak struk transaksi belanja.
+Sistem Informasi Kasir dan Manajemen Penjualan berbasis Flutter dan SQLite (Studi Kasus: Waroeng Ngemil, Padang).
 
 ## Requirement
 
